@@ -1,0 +1,17 @@
+.demo-layout-transparent {
+  background: url('../img/phone_booth.jpg') center / cover;
+}
+
+.demo-layout-transparent .mdl-layout__header,
+.demo-layout-transparent .mdl-layout__drawer-button {
+  /* This background is dark, so we set text to white. Use 87% black instead if
+     your background is light. */
+  color: white;
+}
+
+.main_header {
+  text-align: center;
+  margin-top: 4em;
+  color: whitesmoke;
+  font-weight: Roboto Black Italic;
+}
